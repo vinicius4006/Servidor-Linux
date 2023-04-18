@@ -1,6 +1,6 @@
 Construa seu próprio servidor de maneira simples e rápida!
 
-> Clique no [Wiki](https://github.com/vinicius4006/SERVIDORES/wwiki) e boa sorte!
+> Clique no [Wiki](https://github.com/vinicius4006/SERVIDORES/wiki) e boa sorte!
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/28130158/226749282-0395f4c8-f5e4-45a7-bdcf-c71e46be454a.gif" width="800"> 
